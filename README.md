@@ -4,7 +4,7 @@
 🟠 I was: OIer, Vexer  
 🟡 Skills: C++, Java, Python, html/css  
 🟢 Learning: mySQL, Matlab, Swift  
-🔵 Reach me at: 1369562950@qq.com
+🔵 Reach me at: 1369562950@qq.com  
 🟣 想练丹
 
 <!--
