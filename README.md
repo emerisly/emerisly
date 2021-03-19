@@ -4,8 +4,8 @@
 🟠 I was: OIer, Vexer  
 🟡 Skills: C++, Java, Python, html/css  
 🟢 Learning: mySQL, Matlab, Swift  
-🔵 I love sleeping  
-🟣 想练丹  
+🔵 Reach me at: 1369562950@qq.com
+🟣 想练丹
 
 <!--
 **emerisly/emerisly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
