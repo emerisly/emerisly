@@ -1,6 +1,6 @@
 ### cout<<"Hello World!";
 
-Hello! I'm Emerald Liu, currently studying computer scinece at Cornell University.
+Hello! I'm Emerald Liu 刘思齐, currently studying computer scinece at Cornell University.
 
 🔴 From: Shanghai - New York  
 🟠 I was: OIer, Vexer  
