@@ -10,7 +10,8 @@ Hello! I'm Emerald Liu 刘思齐, currently studying computer scinece at Cornell
 🟣 E-mail: 1369562950@qq.com  
 ⚫ 想练丹
 
+
+Check out my blog site:
+https://cornell.emerisly.xyz/  
 Check out this game I made:
 https://play.unity.com/mg/karting/karrrt-racing  
-Check out my blog website:
-https://cornell.emerisly.xyz/
