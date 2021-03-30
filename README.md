@@ -8,8 +8,8 @@ I'm Emerald Liu 刘思齐, computer science student at Cornell University.
 🟡 Skills: C++, Java, Python, html/css  
 🟢 Learning: mySQL, Matlab, Swift, Game development, Arduino  
 🔵 E-mail: 1369562950@qq.com  
-🟣 I enjoy: 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞 🍭   
-⚫ 想练丹 XD  
+🟣 想练丹 XD   
+⚫ 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞 🍭  
 
 
 Check out my blog site:
