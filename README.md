@@ -11,4 +11,6 @@ Hello! I'm Emerald Liu 刘思齐, currently studying computer scinece at Cornell
 ⚫ 想练丹
 
 Check out this game I made:
-https://play.unity.com/mg/karting/karrrt-racing
+https://play.unity.com/mg/karting/karrrt-racing  
+Check out my blog website:
+https://cornell.emerisly.xyz/
