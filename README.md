@@ -6,7 +6,7 @@ I'm Emerald Liu 刘思齐, first year computer science student at Cornell Univer
 🔴 From: Shanghai - New York  
 🟠 I was: OIer, Vexer  
 🟡 Skills: C++, Java, Python, html/css  
-🟢 Learning: mySQL, Matlab, Swift, Game development, Arduino  
+🟢 Learning: mySQL, Arduino  
 🔵 E-mail: 1369562950@qq.com  
 🟣 想练丹 XD   
 ⚫ I also enjoy: 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞  
