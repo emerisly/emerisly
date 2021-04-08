@@ -9,7 +9,7 @@ I'm Emerald Liu 刘思齐, first year computer science student at Cornell Univer
 🟢 Learning: mySQL, Matlab, Swift, Game development, Arduino  
 🔵 E-mail: 1369562950@qq.com  
 🟣 想练丹 XD   
-⚫ I also enjoy: 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞 🍭  
+⚫ I also enjoy: 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞  
 
 
 Check out my blog site:
