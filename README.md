@@ -1,7 +1,7 @@
 ### cout<<"Hello World!";
 
 Hello! 🌼  
-I'm Emerald Liu 刘思齐, first year computer science student at Cornell University.
+I'm Emerald Liu 刘思齐, first year computer science student at Cornell University.  
 Check out my blog site:
 https://cornell.emerisly.xyz/  
 
