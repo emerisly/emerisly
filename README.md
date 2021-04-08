@@ -3,6 +3,9 @@
 Hello! 🌼  
 I'm Emerald Liu 刘思齐, first year computer science student at Cornell University.
 
+Check out my blog site:
+https://cornell.emerisly.xyz/  
+
 🔴 From: Shanghai - New York  
 🟠 I was: OIer, Vexer  
 🟡 Skills: C++, Java, Python, html/css  
@@ -12,7 +15,6 @@ I'm Emerald Liu 刘思齐, first year computer science student at Cornell Univer
 ⚫ I also enjoy: 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞  
 
 
-Check out my blog site:
-https://cornell.emerisly.xyz/  
+
 Check out this game I made:
 https://play.unity.com/mg/karting/karrrt-racing  
