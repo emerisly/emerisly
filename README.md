@@ -4,6 +4,7 @@ Hello! 🌼
 I'm Emerald Liu, first year computer science student at Cornell University.  
 Check out my blog site:
 https://cornell.emerisly.xyz/  
+(Cornell blocked all .xyz domain so open link with other internet connection I guess? I'll buy a new domain that works with Cornell soon.)
 
 🔴 From: Shanghai - New York  
 🟠 I was: OIer, Vexer  
