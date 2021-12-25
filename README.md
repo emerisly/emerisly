@@ -8,7 +8,7 @@ https://emerisly.com/
 🔴 From: Shanghai - New York  
 🟠 I was: OIer, Vexer  
 🟡 Skills: C++, Java, Python, html/css  
-🟢 Learning: mySQL, Arduino  
+🟢 Learning: SQL, Arduino  
 🔵 E-mail: 1369562950@qq.com  
 🟣 想练丹 XD   
 ⚫ I also enjoy: 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞  
