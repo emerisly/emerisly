@@ -2,7 +2,7 @@
 
 Hello! 🌼  
 I'm Emerald Liu, first year computer science student at Cornell University.  
-Check out my blog site:
+Check out this perosnal blog that I made:
 https://emerisly.com/
 
 🔴 From: Shanghai - New York  
@@ -12,8 +12,6 @@ https://emerisly.com/
 🔵 E-mail: 1369562950@qq.com  
 🟣 想练丹 XD   
 ⚫ I also enjoy: 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞  
-
-
 
 Check out this game I made:
 https://play.unity.com/mg/karting/karrrt-racing  
