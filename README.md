@@ -14,7 +14,7 @@ My Research Interests is ML and NLP.
 ⚫ I also enjoy: 🎨 ✒ 🏀  ⛸ 🎹 🎸 🎞  
 
 
-Check my perosnal blog:
+Check my personal blog:
 https://emerisly.com/  
 A fun game:
 https://play.unity.com/mg/karting/karrrt-racing  
