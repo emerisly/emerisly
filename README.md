@@ -1,8 +1,8 @@
 ### cout<<"Hello World!";
 
 Hello! 🌼  
-I'm Emerald Liu (Siqi), first year computer science student at Cornell University.  
-My Research Interests is ML and NLP.  
+I'm Emerald Liu (Siqi), second year computer science student at Cornell University.  
+My Research Area of Interests is ML and NLP.  
 
 
 🔴 From: Shanghai - New York  
