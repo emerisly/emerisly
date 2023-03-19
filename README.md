@@ -13,6 +13,7 @@ I'm Emerald Liu, a computer science major at Cornell University.
 
 
 Check my personal blog:
+https://emerisly.github.io/  
 https://emerisly.com/  
 A fun game:
 https://play.unity.com/mg/karting/karrrt-racing  
